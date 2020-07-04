@@ -2,7 +2,7 @@
 # Getting started
 
 - Clone this repo
-- `npm install` to install all required dependencies in ppmtool_fronten
+- `npm install` to install all required dependencies in ppmtool_frontend
 - `npm run start` to start frontend
 - `Inside ppmtool_backend` set your MySql URL 
 - Start Backend In Port `8080`
