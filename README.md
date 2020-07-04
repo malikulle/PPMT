@@ -1,8 +1,6 @@
 
 # Getting started
 
-To get the Node server running locally:
-
 - Clone this repo
 - `npm install` to install all required dependencies in ppmtool_fronten
 - `npm run start` to start frontend
